@@ -103,6 +103,8 @@
   <ItemGroup>
     <BundleResource Include="Resources\es.lproj\Main.strings" />
     <BundleResource Include="Resources\fr.lproj\Main.strings" />
+    <BundleResource Include="Resources\es.lproj\InfoPlist.strings" />
+    <BundleResource Include="Resources\fr.lproj\InfoPlist.strings" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Mac\Xamarin.Mac.CSharp.targets" />
   <Import Project="CustomBuildActions.targets" />
